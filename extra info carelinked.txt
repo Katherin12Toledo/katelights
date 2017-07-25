@@ -1,0 +1,9 @@
+<b>Description:</b> This is a mobile app interface that works as a tracker, helping the caregiver have a better knowledge about the elderly condition/lociation. More important and added to this, as both of them will have the intarce in their phones, 
+either one can send an sms to the 911 when an emergency ocurrs, this sms will contain brieve description of emergency, Patient Medical History (the elderly/child/anyone)(the system will extract the very essential, what the ER and paramedics will need and will fax the rest of the info)  and Exact Location of the emergency at the moment.
+Saving time and marginal costs.<br> </P>
+
+The purpose of Carelinked is to provide with a help for the ones who have someone under their supervision. Initially for the caregivers and the care provided to the elderly.
+Really, can be used to help anyone with conditions such as Alzheimer's, children, Advanced Cancer, AID's, Pacemaker users, people with history of heartattacks and small strokes, recent major surjeries and anyone who needs an assisant eye on them.<br></P>
+
+
+>>>>>>> 243805a34be8b846c78a9931336e34a391b3de22
